@@ -1,4 +1,5 @@
 # password-generator
+- Built as part of the **100 Days of Code: The Complete Python Pro Bootcamp**
 - The objective is to take the inputs from the user to these questions and then generate a random password. 
 
 # What I learned
